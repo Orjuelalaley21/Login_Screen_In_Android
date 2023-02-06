@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="signup">¿ No tienes una cuenta ? \n REGISTRATE AHORA !!</string>
+    <string name="registration">REGISTRATE </string>
+</resources>
